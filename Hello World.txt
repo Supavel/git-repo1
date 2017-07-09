@@ -2,4 +2,5 @@ Print ("Hello World!")
 Print ("Hello Everybody!")
 Print ("Hello!")
 Print ("Hello Dolly!")
-Print ("Hello man!")
+Print ("Hello man!")]
+Print ("Hello people")
